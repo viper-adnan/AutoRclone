@@ -1,7 +1,6 @@
 # exclude everything
 /folderclone-master
 /.idea
-/accounts/*
 # /controller/*
 /credentials/*
 rclone.conf
